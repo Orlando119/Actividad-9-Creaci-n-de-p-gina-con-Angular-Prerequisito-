@@ -1,0 +1,19 @@
+footer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: #3f66cb;
+  height: 80px;
+  width: 100%;
+}
+
+.title{
+
+  text-align: center;
+  line-height: 5.5em;
+  font-size:25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #fdf5f5;
+
+}

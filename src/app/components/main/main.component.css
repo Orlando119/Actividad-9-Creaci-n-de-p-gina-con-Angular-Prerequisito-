@@ -1,0 +1,30 @@
+main {
+  background: #63d5dc;
+  width: 80%;
+  height: 300px;
+  
+}
+
+aside {
+  background:#d9e174;
+  width: 20%;
+  
+} 
+
+
+.title{
+  
+  text-align: center;
+  line-height: 12em;
+  font-size:25px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #000000;
+
+}
+.container {
+  display: flex;
+  flex-direction: row;
+ 
+ 
+
+}

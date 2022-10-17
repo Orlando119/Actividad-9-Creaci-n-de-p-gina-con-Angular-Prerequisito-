@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  background: #d95151;
+  
+  
+}
+  
+  .title{
+  
+    text-align: center;
+    line-height: 3em;
+    font-size:25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #fdf5f5;
+  
+  }
